@@ -6,8 +6,8 @@
 <img src="https://github.com/qiaowanyue/CarPlateIdentity/raw/master/cloudImage/avatar1.png" width="600" height="400" alt="描述语言，写什么都不会显示出来"/>
 
 ## 关于环境配置
-TensorFlow1.14
-numpy
+TensorFlow1.14<br>
+numpy<br>
 PIL8.0
 
 ## 参考博文
