@@ -3,7 +3,7 @@
 ## 介绍
 本项目的研究内容为卷积神经网络对车牌和字符的识别，其中包括了车牌定位、车牌中的字符分割和字符识别三部分。
 ### 车牌识别流程图
-<img src="https://github.com/qiaowanyue/CarPlateIdentity/raw/master/cloudImage/avatar1.png" width="700" height="500" alt="描述语言，写什么都不会显示出来"/>
+<img src="https://github.com/qiaowanyue/CarPlateIdentity/raw/master/cloudImage/avatar1.png" width="600" height="400" alt="描述语言，写什么都不会显示出来"/>
 
 ## 关于环境配置
 TensorFlow1.14
